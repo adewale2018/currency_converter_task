@@ -1,16 +1,10 @@
-// import NotFoundImg from '../utils/images/notfound.jpg';
+import NotFoundImg from "../utils/images/notfound.jpg";
 
-import {
-  Container,
-  IconButton,
-  Typography,
-  makeStyles,
-} from "@material-ui/core";
+import { Container, Typography, makeStyles } from "@material-ui/core";
 
 import ArrowBackIosIcon from "@material-ui/icons/ArrowBackIos";
-import NotFoundImg from "../utils/images/illustration_404.svg";
 import React from "react";
-import { useHistory } from 'react-router-dom'
+import { useHistory } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -38,8 +32,8 @@ const NotFound = () => {
   const history = useHistory();
   return (
     <Container className={classes.container}>
-      <div className={classes.back} onClick={() => history.push('/')}>
-        <ArrowBackIosIcon color='primary' /> Back home
+      <div className={classes.back} onClick={() => history.push("/")}>
+        <ArrowBackIosIcon color="primary" /> Back home
       </div>
       <Typography variant="h6" color="secondary">
         Sorry, Page Not Found !

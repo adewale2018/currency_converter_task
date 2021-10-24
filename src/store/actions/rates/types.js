@@ -1,0 +1,5 @@
+export const RatesTypes = {
+  SET_RATES_STATUS: "SET_RATES_STATUS",
+  SET_LOADING: "SET_LOADING",
+  SET_RATES: "SET_RATES",
+};
