@@ -1,7 +1,8 @@
 # Currency Converter App
 
 ## ABOUT THE APP
-This is a currency converter application built with react.
+This is a currency converter application built with react. 
+Check it out on Github: [Link to the Github repo](https://github.com/adewale2018/currency_converter_task)
 
 ## TECHNOLOGIES USED ARE:
 - REACT [Documentation to learn more](https://reactjs.org/)
@@ -15,11 +16,13 @@ This is a currency converter application built with react.
 - Deployment on HEROKU [Heroku](https://www.heroku.com/)
 
 ## HOW TO RUN THE APPLICATION IN ORDER TO TEST IT
-- To run the application, ensure you have Node installed on your machine.
+- To run the application, ensure you have `Node.js` and `npm` installed on your machine.
 - Clone the repo by opening your terminal and type the command `git clone https://github.com/adewale2018/currency_converter_task.git`
 - Enter the directory by typing the command `cd currency_converter_task`
 - Open the directory in your favorite editor, open the editor terminal and run the command `npm install` or `yarn install` to        install the dependencies.
 - After the successful installations of dependencies, run the command `npm start` to launch the application.
 - You should have the application running on your localhost
 
-## HOW TO DEPLOY THE APPLICATION
+## HOW TO DEPLOY THE APPLICATION ON HEROKU
+Follow the instructions below to deploy the application on heroku:
+
