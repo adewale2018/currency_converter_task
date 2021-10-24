@@ -1,0 +1,25 @@
+# Currency Converter App
+
+## ABOUT THE APP
+This is a currency converter application built with react.
+
+## TECHNOLOGIES USED ARE:
+- REACT [Documentation to learn more](https://reactjs.org/)
+- REACT-HOOKS
+- REDUX [Documentation to learn more](https://redux.js.org/)
+- MATERIAL-UI [Documentation to learn more](https://mui.com/)
+- AXIOS [Documentation to learn more](https://www.npmjs.com/package/axios)
+- MATERIAL-ICONS
+- REACT-ROUTER [Documentation to learn more](https://reactrouter.com/)
+- FIXER API [Documentation to learn more](https://fixer.io/)
+- Deployment on HEROKU [Heroku](https://www.heroku.com/)
+
+## HOW TO RUN THE APPLICATION IN ORDER TO TEST IT
+- To run the application, ensure you have Node installed on your machine.
+- Clone the repo by opening your terminal and type the command `git clone https://github.com/adewale2018/currency_converter_task.git`
+- Enter the directory by typing the command `cd currency_converter_task`
+- Open the directory in your favorite editor, open the editor terminal and run the command `npm install` or `yarn install` to        install the dependencies.
+- After the successful installations of dependencies, run the command `npm start` to launch the application.
+- You should have the application running on your localhost
+
+## HOW TO DEPLOY THE APPLICATION
