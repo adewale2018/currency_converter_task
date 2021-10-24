@@ -20,7 +20,9 @@ Check it out on Github: [Link to the Github repo](https://github.com/adewale2018
 - Clone the repo by opening your terminal and type the command `git clone https://github.com/adewale2018/currency_converter_task.git`
 - Enter the directory by typing the command `cd currency_converter_task`
 - Open the directory in your favorite editor, open the editor terminal and run the command `npm install` or `yarn install` to        install the dependencies.
-- After the successful installations of dependencies, run the command `npm start` to launch the application.
+- PLEASE NOTE THAT you need to visit [FIXER API](https://fixer.io/) to get API key. Create `.env` file in the root directory and save it like this
+```REACT_APP_API_KEY='your own key here'```
+- After the successful installations of dependencies and setup of the KEY above, run the command `npm start` to launch the application.
 - You should have the application running on your localhost
 
 ## HOW TO DEPLOY THE APPLICATION ON HEROKU
